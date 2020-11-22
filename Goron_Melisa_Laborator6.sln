@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goron_Melisa_Laborator6", "Goron_Melisa_Laborator6.csproj", "{437ABABE-B860-4628-B541-929EF3DA9ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{57913170-A453-4718-9972-A9067E09CC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437ABABE-B860-4628-B541-929EF3DA9ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437ABABE-B860-4628-B541-929EF3DA9ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437ABABE-B860-4628-B541-929EF3DA9ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437ABABE-B860-4628-B541-929EF3DA9ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57913170-A453-4718-9972-A9067E09CC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57913170-A453-4718-9972-A9067E09CC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57913170-A453-4718-9972-A9067E09CC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57913170-A453-4718-9972-A9067E09CC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE9B9ED-E483-4E03-A4B1-0F2000435B84}
+	EndGlobalSection
+EndGlobal
